@@ -82,4 +82,5 @@ Serving your frontend files (index.html, CSS, JS, etc.).
    ```bash
    git clone https://github.com/Gauravkumar1741/student_management_workbench.git
 
+![image alt](https://github.com/Gauravkumar1741/student_management_workbench/blob/b92f537acffe509cd23e01b36ec1c5ed8193a7eb/first_page.png)
    
