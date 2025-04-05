@@ -83,4 +83,5 @@ Serving your frontend files (index.html, CSS, JS, etc.).
    git clone https://github.com/Gauravkumar1741/student_management_workbench.git
 
 ![image alt](https://github.com/Gauravkumar1741/student_management_workbench/blob/b92f537acffe509cd23e01b36ec1c5ed8193a7eb/first_page.png)
-   
+
+![image alt](https://github.com/Gauravkumar1741/student_management_workbench/blob/9c6edfbe7ee132833b644140c0b4ea59199e303d/second_page.png)   
